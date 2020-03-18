@@ -1,0 +1,6 @@
+Mini DIN connecter MD-60s
+
+1 - Ground - Grn
+5 - Analog Data - White
+4 - VCC - Yel
+6 - Digital Data
